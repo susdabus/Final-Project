@@ -30,7 +30,7 @@ This tool randomly creates strong and secure passwords based on user-selected cr
 
 A classic game where users test their luck against the computer by choosing rock, paper, or scissors.
 
-### 4. High Striker\*\* Game\*\*
+### 4. High Striker Game
 
 A carnival-style game where the player tries to hit a target and test their strength.
 
