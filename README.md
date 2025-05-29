@@ -37,7 +37,7 @@ A carnival-style game where the player tries to hit a target and test their stre
 ## Links
 
 * 🔗 [GitHub Repository](https://github.com/susdabus/Final-Project)
-* 🌐 [Live Site on GitHub Pages](https://codepen.io/susanagarca/pen/KwPJxxV?editors=1000)
+* 🌐 [Live Site on GitHub Pages](https://susdabus.github.io/Final-Project/)
 
 ---
 
